@@ -17,8 +17,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Social Media Links:
-[![Twitter: Danish Juneja](https://img.shields.io/twitter/follow/danishjuneja?style=for-the-badge&logo=twitter)](https://twitter.com/darth_juneja)
-[![Linkedin: danishjuneja](https://img.shields.io/badge/-danishjuneja-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danishjuneja11/)](https://www.linkedin.com/in/danish-juneja-11aa08197/)
+[![Twitter: Danish Juneja](https://img.shields.io/twitter/follow/darth_juneja?style=for-the-badge&logo=twitter)](https://twitter.com/darth_juneja)
+[![Linkedin: Danish Juneja](https://img.shields.io/badge/-danishjuneja-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danishjuneja11/)](https://www.linkedin.com/in/danish-juneja-11aa08197/)
 [![GitHub DanishJuneja](https://img.shields.io/github/followers/danishjuneja?label=follow&style=for-the-badge)](https://github.com/danishjuneja)
 <!---
 danishjuneja/danishjuneja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
