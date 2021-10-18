@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danish Juneja</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishjuneja&label=Profile%20views&color=0e75b6&style=flat" alt="danishjuneja" /> </p>
 
-<p align="left"> <a href="https://twitter.com/darth_juneja" target="blank"><img src="https://img.shields.io/twitter/follow/darth_juneja?logo=twitter&style=for-the-badge" alt="darth_juneja" /></a> </p>
+<p align="left"> <a href="https://twitter.com/definitelydines" target="blank"><img src="https://img.shields.io/twitter/follow/definitelydines?logo=twitter&style=for-the-badge" alt="definitelydines" /></a> </p>
 
 - 🔭 I’m currently working on **Arduino Projects**
 
