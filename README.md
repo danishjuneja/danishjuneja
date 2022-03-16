@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/definitelydines" target="blank"><img src="https://img.shields.io/twitter/follow/definitelydines?logo=twitter&style=for-the-badge" alt="definitelydines" /></a> </p>
 
-- 🔭 I’m currently working on **Arduino Projects**
+- 🔭 I’m currently working on **Audio Processing and Machine Learning**
 
-- 🌱 I’m currently learning **Open CV and Assembly**
+- 🌱 I’m currently learning **MIPS, ARM, Pytorch**
 
 - 👯 I’m looking to collaborate on **ML and OpenCV projects**
 
