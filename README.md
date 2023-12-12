@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danish Juneja</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danishjuneja&label=Profile%20views&color=0e75b6&style=flat" alt="danishjuneja" /> </p>
 
-<p align="left"> <a href="https://twitter.com/normaldanish" target="blank"><img src="https://img.shields.io/twitter/follow/normaldanish?logo=twitter&style=for-the-badge" alt="normaldanish" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kyaboladanish" target="blank"><img src="https://img.shields.io/twitter/follow/normaldanish?logo=twitter&style=for-the-badge" alt="kyaboladanish" /></a> </p>
 
 - I’m currently working on <b>Product Design, Frontend Development, and also Deep Learning</b>
 - I'm learning <b>System Design</b> 
