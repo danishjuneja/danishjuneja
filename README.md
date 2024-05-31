@@ -2,10 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/kyaboladanish" target="blank"><img src="https://img.shields.io/twitter/follow/kyaboladanish?logo=twitter&style=for-the-badge" alt="kyaboladanish" /></a> </p>
 
-- I’m currently working on <b>Product Design, Frontend Development, and also Deep Learning</b>
-- I'm learning <b>System Design</b> 
 - Hit me up on Twitter for any collaborations or discussions
-- 📫 How to reach me <b>danishjuneja11@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
